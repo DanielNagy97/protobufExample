@@ -1,0 +1,7 @@
+.vscode
+protoc
+__pycache__
+book_pb2.py
+__pycache__
+data.bytes
+data.json
